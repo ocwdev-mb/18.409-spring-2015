@@ -1,0 +1,58 @@
+{
+  "term": "Spring",
+  "year": "2015",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Theory of Computation"
+    ],
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Mathematics",
+      "Discrete Mathematics"
+    ]
+  ],
+  "legacy_uid": "0ebc2126-9537-fd47-6742-66b88e8a3512",
+  "instructors": {
+    "content": [
+      "97b0c914-af54-a0f4-5141-04a8ec96b059"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "3d7ff2a0-d791-261f-7077-adb098c78ed1",
+    "website": "18-409-algorithmic-aspects-of-machine-learning-spring-2015"
+  },
+  "course_title": "Algorithmic Aspects of Machine Learning",
+  "course_description": "This course is organized around algorithmic issues that arise in machine learning. Modern machine learning systems are often built on top of algorithms that do not have provable guarantees, and it is the subject of debate when and why they work. In this class, we focus on designing algorithms whose performance we can rigorously analyze for fundamental machine learning problems.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.409",
+  "course_image_thumbnail": {
+    "content": "4378daf3-5c68-85e0-a490-f989d21804ee",
+    "website": "18-409-algorithmic-aspects-of-machine-learning-spring-2015"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes",
+    "Activity Assignments",
+    "Written Assignments"
+  ],
+  "site_uid": "30b24eb7-01f4-4f26-aa58-bb4eb31fc09e",
+  "site_short_id": "18.409-spring-2015",
+  "title": "Course Metadata"
+}
